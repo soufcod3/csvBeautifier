@@ -5,7 +5,7 @@
     "require": {
         "pear/console_table": "^1.3"
     },
-    "license": "2022",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "CsvBeautifier\\": "src/",
